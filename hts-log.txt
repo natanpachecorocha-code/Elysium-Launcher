@@ -1,0 +1,107 @@
+HTTrack3.50-5 launched on Fri, 02 Oct 2026 19:38:11 at https://prismlauncher.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "pt_BR, en, *" https://prismlauncher.org/ -O1 "C:\Meus Sites\Elysium Launcher" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:38:48	Warning: 	Over-long header dropped for https://github.com/cozyGalvinism.png?size=96
+19:38:49	Warning: 	Over-long header dropped for https://github.com/cozyGalvinism.png?size=192
+19:38:50	Warning: 	Over-long header dropped for https://github.com/DioEgizio.png?size=96
+19:38:51	Warning: 	Over-long header dropped for https://github.com/DioEgizio.png?size=192
+19:38:52	Warning: 	Over-long header dropped for https://github.com/getchoo.png?size=96
+19:38:53	Warning: 	Over-long header dropped for https://github.com/getchoo.png?size=192
+19:38:54	Warning: 	Over-long header dropped for https://github.com/intergrav.png?size=96
+19:38:55	Warning: 	Over-long header dropped for https://github.com/intergrav.png?size=192
+19:38:56	Warning: 	Over-long header dropped for https://github.com/Octol1ttle.png?size=96
+19:38:57	Warning: 	Over-long header dropped for https://github.com/Octol1ttle.png?size=192
+19:38:57	Warning: 	Over-long header dropped for https://github.com/Ryex.png?size=96
+19:38:58	Warning: 	Over-long header dropped for https://github.com/Ryex.png?size=192
+19:38:59	Warning: 	Over-long header dropped for https://github.com/Scrumplex.png?size=96
+19:39:00	Warning: 	Over-long header dropped for https://github.com/Scrumplex.png?size=192
+19:39:00	Warning: 	Over-long header dropped for https://github.com/TayouVR.png?size=96
+19:39:01	Warning: 	Over-long header dropped for https://github.com/TayouVR.png?size=192
+19:39:02	Warning: 	Over-long header dropped for https://github.com/TheKodeToad.png?size=96
+19:39:03	Warning: 	Over-long header dropped for https://github.com/TheKodeToad.png?size=192
+19:39:04	Warning: 	Over-long header dropped for https://github.com/timoreo22.png?size=96
+19:39:04	Warning: 	Over-long header dropped for https://github.com/timoreo22.png?size=192
+19:39:05	Warning: 	Over-long header dropped for https://github.com/Trial97.png?size=96
+19:39:06	Warning: 	Over-long header dropped for https://github.com/Trial97.png?size=192
+19:39:07	Warning: 	Over-long header dropped for https://github.com/txtsd.png?size=96
+19:39:07	Warning: 	Over-long header dropped for https://github.com/txtsd.png?size=192
+19:39:08	Warning: 	Over-long header dropped for https://github.com/ZekeZDev.png?size=96
+19:39:09	Warning: 	Over-long header dropped for https://github.com/ZekeZDev.png?size=192
+19:39:10	Warning: 	Over-long header dropped for https://github.com/lordofpipes.png?size=96
+19:39:10	Warning: 	Over-long header dropped for https://github.com/lordofpipes.png?size=192
+19:39:11	Warning: 	Over-long header dropped for https://github.com/Lutitious.png?size=96
+19:39:12	Warning: 	Over-long header dropped for https://github.com/Lutitious.png?size=192
+19:39:13	Warning: 	Over-long header dropped for https://github.com/NotJansel.png?size=96
+19:39:13	Warning: 	Over-long header dropped for https://github.com/NotJansel.png?size=192
+19:39:14	Warning: 	Over-long header dropped for https://github.com/Regular-Baf.png?size=96
+19:39:15	Warning: 	Over-long header dropped for https://github.com/Regular-Baf.png?size=192
+19:39:15	Warning: 	Over-long header dropped for https://github.com/sakecode.png?size=96
+19:39:16	Warning: 	Over-long header dropped for https://github.com/sakecode.png?size=192
+19:39:20	Error: 	"Not Found" (404) at link https://prismlauncher.org/img/org.prismlauncher.PrismLauncher.logo-dark.svg (from https://prismlauncher.org/img/logo-textDark.svg)
+19:39:20	Error: 	"Not Found" (404) at link https://prismlauncher.org/news/tag/Release (from https://prismlauncher.org/news/)
+19:39:20	Error: 	"Not Found" (404) at link https://prismlauncher.org/news/tag/News (from https://prismlauncher.org/news/)
+19:39:20	Error: 	"Not Found" (404) at link https://prismlauncher.org/news/tag/Authentication (from https://prismlauncher.org/news/)
+19:39:20	Error: 	"Not Found" (404) at link https://prismlauncher.org/news/tag/MultiMC (from https://prismlauncher.org/news/)
+19:39:20	Error: 	"Not Found" (404) at link https://prismlauncher.org/news/tag/Feature (from https://prismlauncher.org/news/)
+19:39:37	Error: 	"Not Found" (404) at link https://prismlauncher.org/favicon.svg (from https://prismlauncher.org/wiki/)
+19:39:48	Error: 	"Not Found" (404) at link https://prismlauncher.org/privacy-policy (from https://prismlauncher.org/news/increasing-safety/)
+19:39:52	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/attachments/1064872603237498930/1064899187130507284/Screenshot_2023-01-17_at_13.29.01.png (from https://prismlauncher.org/news/ftb-removal/)
+19:39:53	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/attachments/790275974503202857/1115801834746023946/image.png (from https://prismlauncher.org/news/cf-compromised-alert/)
+19:39:53	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/attachments/790275974503202857/1115801511411335228/image.png (from https://prismlauncher.org/news/cf-compromised-alert/)
+19:39:53	Error: 	"Not Found" (404) at link https://chorb.is-from.space/DiscordPTB_gzDJsWklzc.png (from https://prismlauncher.org/news/cf-compromised-alert/)
+19:39:53	Error: 	"Not Found" (404) at link https://cdn.discordapp.com/attachments/856652644113580072/1115811476591095908/image.png (from https://prismlauncher.org/news/cf-compromised-alert/)
+19:39:53	Error: 	"Not Found" (404) at link https://prismlauncher.org/_astro/org.prismlauncher.PrismLauncher.logo-dark.svg (from https://prismlauncher.org/_astro/logo-textDark.Bublo_l2.svg)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/ar.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/bn.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/ca.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/cs.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/da.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/de.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/el.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/en.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/es.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/eu.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/fa.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/fi.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/fr.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/gl.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/he.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/hi.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/hr.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/hu.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/id.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/it.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/ja.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/ko.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/mi.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/my.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/nb.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/nl.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/nn.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/no.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/pl.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/pt.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/ro.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/ru.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/sr.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/sv.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/sw.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/ta.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/th.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/tr.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/uk.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/vi.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/zh-cn.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:31	Error: 	"Not Found" (404) at link https://prismlauncher.org/translations/zh-tw.json (from https://prismlauncher.org/_astro/ui-core.C0u4jL1_.js)
+19:40:32	Error: 	"Not Found" (404) at link https://prismlauncher.org/wiki/help-pages/getting-started/installing-java (from https://prismlauncher.org/wiki/help-pages/java-wizard/)
+19:40:32	Error: 	"Not Found" (404) at link https://prismlauncher.org/wiki/help-pages/java-wizard/Java-settings (from https://prismlauncher.org/wiki/help-pages/java-wizard/)
+19:40:32	Error: 	"Not Found" (404) at link https://prismlauncher.org/public/img/screenshots/SettingsLauncherFeaturesDark.png (from https://prismlauncher.org/wiki/help-pages/launcher-settings/)
+19:40:32	Error: 	"Not Found" (404) at link https://prismlauncher.org/public/img/screenshots/SettingsLauncherUserInterfaceDark.png (from https://prismlauncher.org/wiki/help-pages/launcher-settings/)
+
+HTTrack Website Copier/3.50-5 mirror complete in 2 minutes 21 seconds : 345 links scanned, 284 files written (24569010 bytes overall) [21517226 bytes received at 152604 bytes/sec], 5588067 bytes transferred using HTTP compression in 195 files, ratio 26%, 7.0 requests per connection
+(60 errors, 36 warnings, 0 messages)

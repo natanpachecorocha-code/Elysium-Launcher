@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	LzErhtX82Fg34R8oBqE%2BSE34H2GnDqQlJrMIydzh2rXmoy2R4NGdVbWdrGZRuCST%2BpOuveQyKCjutkWbWWCVemG2kmI%2F1Mfqym4eZGj8EWCOigREcOZYW%2BCWLkjuJAolHg1d4b%2B5Cvn5uZZyP9bfWd9YH7biHoqfqklVzfDFFasAXWjGNTF5tDLNRRa97IuYUSAg1UpxgxlixUq1%2BUX8hh2XgOD%2BHQkL4q%2FHljgyATCYsyXqajfAqs90Umvtk2uvk5fu1k8h%2BQCyOlw2f3RkWQ%3D%3D--WNG9b%2BCs2joxcVl2--%2B1pVJzDnMDKH5lbLZgh8BA%3D%3D
+.github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.498587054.1790980725
+.github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	__cf_bm	kRkm4jQCfhUXWo6f3e3PfkB.zqDZ9yCHEDyH2nJk__I-1790980768.9484787-1.0.1.1-Yr_aZZdIWVuz5hVFFhMxUiAw.tXwwJzd81XCMmLem.k8_p5q6MIBnYXKj2WVZ1VOVfgovTfj_0CVEh3FVq9gfjE60uULbaw.usPILkKFW8tMI1kjEEFh4dtQXRMTK2St
+discordapp.com	TRUE	/	FALSE	1999999999	SameSite	None
+
